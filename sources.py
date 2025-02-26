@@ -1,2 +1,2 @@
 print(i for i in range(1, 100))
-print('Всё ,kz')
+print('не понимаю')
